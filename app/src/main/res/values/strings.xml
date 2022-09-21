@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Invoice App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Sagar Travels</string>
+    <string name="second_fragment_label">Generate Invoice</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sagar_tours_amp_travels"><![CDATA[Sagar Tours & Travels]]></string>
+    <string name="no">+91 1111111111</string>
+    <string name="navi_mumbai_maharashtra">Navi Mumbai, Maharashtra</string>
+    <string name="trip_date">Trip Date</string>
+    <string name="select_date">Select date</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_number">Customer Number</string>
+    <string name="from_to">From to</string>
+    <string name="price">Price</string>
+    <string name="or">OR</string>
+    <string name="toll">Toll</string>
+    <string name="parking">Parking</string>
+    <string name="gst">GST</string>
+    <string name="paid">Paid</string>
+    <string name="share_image">Share Image</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="submit">Submit</string>
+    <string name="vehicle_no">Vehicle No - MH 43 D 8778</string>
+    <string name="bill_to">Bill to :</string>
+    <string name="deepu">Deepu</string>
+    <string name="distance">Distance :</string>
+    <string name="_20_km">20 km</string>
+    <string name="issue_date">Issue Date :</string>
+    <string name="_15_sep_2022">15- sep - 2022</string>
+    <string name="description">Description</string>
+    <string name="amount">Amount</string>
+    <string name="_0">₹ 0</string>
+    <string name="total">Total</string>
+    <string name="ramsagar_yadav">Ramsagar Yadav</string>
+    <string name="thank_you_for_the_payment">Thank You for the Payment!!</string>
+    <string name="share">Share</string>
+    <string name="generate_invoice">Generate Invoice</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="change">Change</string>
+    <string name="change_your_whatsapp_no">Change your whatsapp no</string>
+    <string name="whatsapp_no">whatsapp no</string>
+    <string name="please_remove_91">Please remove +91</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+</resources>
