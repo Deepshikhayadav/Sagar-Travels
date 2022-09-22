@@ -24,13 +24,7 @@
         <action
             android:id="@+id/action_SecondFragment_to_FirstFragment"
             app:destination="@id/FirstFragment" />
-        <action
-            android:id="@+id/action_SecondFragment_to_pdfFragment"
-            app:destination="@id/pdfFragment" />
+
     </fragment>
-    <fragment
-        android:id="@+id/pdfFragment"
-        android:name="com.deepshikhayadav.invoiceapp.PdfFragment"
-        android:label="fragment_pdf"
-        tools:layout="@layout/fragment_pdf" />
+
 </navigation>
