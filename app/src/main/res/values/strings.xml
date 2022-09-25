@@ -32,7 +32,7 @@
     <string name="bill_to">Bill to :</string>
     <string name="deepu">Deepu</string>
     <string name="distance">Distance :</string>
-    <string name="_20_km">20 km</string>
+    <string name="_20_km">ST10001</string>
     <string name="issue_date">Issue Date :</string>
     <string name="_15_sep_2022">15- sep - 2022</string>
     <string name="description">Description</string>
@@ -50,4 +50,5 @@
     <string name="please_remove_91">Please remove +91</string>
     <string name="cancel">Cancel</string>
     <string name="confirm">Confirm</string>
+    <string name="receipt">Receipt no</string>
 </resources>

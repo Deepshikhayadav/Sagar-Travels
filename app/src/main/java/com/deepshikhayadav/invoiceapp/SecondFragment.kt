@@ -167,12 +167,12 @@ class SecondFragment : Fragment() {
         val title = Paint()
         title.textSize = 15f
         title.textAlign = Paint.Align.LEFT
-        page.canvas.drawText("© Copyright by Sagar Tour & Travels", 20f, (requireView().measuredHeight).toFloat()-50,title)
+        page.canvas.drawText("© Copyright by Sagar Tour & Travels", 20f, (requireView().measuredHeight).toFloat()-10,title)
         pdfDocument.finishPage(page)
-
+        val df= SimpleDateFormat("ddMM", Locale.getDefault())
         file = File(
             Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS),
-          "Invoice_${custName.text.toString()}.pdf"
+          "Invoice_${custName.text.toString()}${df.format(date)}.pdf"
         )
 
         try {
